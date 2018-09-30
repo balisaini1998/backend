@@ -1,0 +1,11 @@
+com\niit\Backend\dao\CategoryImplementation.class
+com\niit\Backend\App.class
+com\niit\Backend\dao\UserdetailImpl.class
+com\niit\Backend\model\Category.class
+com\niit\Backend\config\DBConfig.class
+com\niit\Backend\model\Userdetail.class
+com\niit\Backend\model\Product.class
+com\niit\Backend\dao\ProductImplementation.class
+com\niit\Backend\dao\ProductRepository.class
+com\niit\Backend\dao\Userdetail.class
+com\niit\Backend\dao\CategoryRepository.class
